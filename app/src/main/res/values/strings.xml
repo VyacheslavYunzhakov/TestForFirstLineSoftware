@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="defaultAuthor">No Author</string>
+    <string name="defaultDate">2000.01.01</string>
+</resources>
